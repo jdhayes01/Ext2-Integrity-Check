@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1552423008 source:c:\users\james\documents\ysu\operating systems\os_project\ext2.fs.cpp
+	"ext2.fs.h"
+	<iostream>
+	<unistd.h>
+	<fstream>
+
+1552421511 c:\users\james\documents\ysu\operating systems\os_project\ext2.fs.h
+
+1557193255 source:c:\users\james\documents\ysu\operating systems\os_project\main.cpp
+	"ext2.fs.h"
+	<iostream>
+	"unistd.h"
+	"vdifile.h"
+	"ext2.h"
+	"sys/types.h"
+	"sys/stat.h"
+	"fcntl.h"
+	"SuperBlock.h"
+	"BootRecord.h"
+	<typeinfo>
+
+1557193849 c:\users\james\documents\ysu\operating systems\os_project\vdifile.h
+
+1552421507 c:\users\james\documents\ysu\operating systems\os_project\ext2.h
+
+1556727586 c:\users\james\documents\ysu\operating systems\os_project\superblock.h
+
+1556725027 c:\users\james\documents\ysu\operating systems\os_project\bootrecord.h
+
